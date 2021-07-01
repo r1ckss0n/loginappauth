@@ -1,16 +1,16 @@
 env
 
 *.pyc
-__pycache__/
+__pycache__
 
 instance
 
-.pytest_cache/
+.pytest_cache
 .coverage
-htmlcov/
+htmlcov
 
 dist/
-build/
-*.egg-info/
+build
+*.egg-info
 
 commands.txt
